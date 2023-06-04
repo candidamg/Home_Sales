@@ -1,6 +1,8 @@
 # Home_Sales
 
-In this program we answer the following questions by using SparkSQL.
+The key metrics about sales data are determine by using SparkSQL in this challenge.
+
+The following were answered by using SparkSQL:
 
 * What is the average price for a four-bedroom house sold for each year? Round off your answer to two decimal places.
 
@@ -11,8 +13,7 @@ In this program we answer the following questions by using SparkSQL.
 * What is the "view" rating for homes costing more than or equal to $350,000? Determine the run time for this query, and round off your answer to two decimal places.
 
 
+![image](/image.jpg)
 
-!(image)[/image.jpg]
-
-### Notes
-This program was originally worked in Google Colab. You may find GC [here](https://colab.research.google.com/).
+### Note
+This program was originally worked in Google Colab. You can start working in GC by clicking [here](https://colab.research.google.com/).
